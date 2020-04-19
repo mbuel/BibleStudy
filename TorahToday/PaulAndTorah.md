@@ -141,7 +141,7 @@ This is why it's SO IMPORTANT to understand Torah, to read the ENTIRE Bible, not
 
 {1Pe 4:1-3 HNV} Forasmuch then as Messiah suffered for us in the flesh, arm yourselves also with the same mind; for he who has suffered in the flesh has ceased from sin; that you no longer should live the rest of your time in the flesh for the lusts of men, but for the will of God. For we have spent enough of our past time living in doing the desire of the Goyim (GENTILE), and to have walked in lewdness, lusts, drunken binges, orgies, carousings, and abominable idolatries.
 
-Being born a Gentile, you are not called to live a **SET APART** life, HOLY for God. Remember the question I started out with?
+Being born a Gentile, you are Now called to live a **SET APART** life, HOLY for God. Remember the question I started out with?
 
 If you claim to be Christian, yet still live like the unsaved - are you a Jew by faith?
 
