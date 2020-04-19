@@ -1,4 +1,4 @@
-
+# Did the Apostle Paul teach Gentiles to worship God contrary to the law and the prophets?
 
 As a NT only Christian how do you define these terms where the authors were referencing a deeper OT context?
 
