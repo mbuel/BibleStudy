@@ -34,9 +34,9 @@ As a NT only Christian how do you define these terms where the authors were refe
 
 ## Did Paul teach Gentiles they can forsake the law?
 
-{Rom 4:14 HNV} For if those who are of the law are heirs, faith is made void, and the promise is made of no effect.
-
 {Rom 3:28 HNV} We maintain therefore that a man is justified by faith apart from the **works of the law.**
+
+{Rom 4:14 HNV} For if those who are of the law are heirs, faith is made void, and the promise is made of no effect.
 
 {Gal 2:21 HNV} I don't make void the grace of God. For if righteousness is through the law, then Messiah died for nothing!"
 
@@ -89,3 +89,90 @@ unmerciful;
 who, knowing the ordinance of God, that those who practice such things are worthy of death, not only do the same, *but also approve of those who practice them.*
 
 {Rom 2:1-11 HNV} Therefore you are without excuse, O man, whoever you are who judge. For in that which you judge another, you condemn yourself. For you who judge practice the same things. We know that the judgment of God is according to truth against those who practice such things. Do you think this, O man who judges those who practice such things, and do the same, that you will escape the judgment of God? Or do you despise the riches of his goodness, forbearance, and patience, not knowing that the goodness of God leads you to repentance? But according to your hardness and unrepentant heart you are treasuring up for yourself wrath in the day of wrath, revelation, and of the righteous judgment of God; who **"will pay back to everyone according to their works:"** to those who *by patience in well-doing seek for glory and honor and incorruptibility, eternal life*; but to those who are self-seeking, and don't obey the truth, but obey unrighteousness, will be wrath and indignation, oppression and anguish, on every soul of man who works evil, on the Yehudi first, and also on the Yevanit. But glory and honor and shalom to every man who works good, to the Yehudi first, and also to the Yevanit. For there is no partiality with God.
+
+## What law is Paul teaching against in Rom 4:14, Rom 3:28 and Gal 2:21?
+
+{Rom 3:1 HNV} Then what advantage does the Yehudi have? Or what is the profit of *circumcision?*
+
+{Rom 3:1, 30-31 HNV} Then what advantage does the Yehudi have? Or what is the profit of *circumcision?* ... since indeed there is one *God who will justify the circumcised by faith, and the uncircumcised through faith.* **Do we then nullify the law through faith? May it never be! No, we establish the law.**
+
+**THE LAW OF CIRCUMCISION**
+
+{Rom 4:9-13 HNV} Is this *blessing then pronounced on the circumcised, or on the uncircumcised also?* For we say that faith was accounted to Avraham for righteousness. How then was it counted? **When he was in circumcision, or in uncircumcision? Not in circumcision, but in uncircumcision.** He received the **sign of circumcision, a seal** of the righteousness of the faith which he had while he was in **uncircumcision**, that he might be the father of all those who believe, though they be in **uncircumcision**, that righteousness might also be accounted to them. The father of **circumcision** to those who not only are of the **circumcision**, but who also walk in the steps of that faith of our father Avraham, which he had in **uncircumcision**. For the promise to Avraham and to his seed that he should be heir of the world wasn't through the law, but through the righteousness of faith.
+
+Paul's epistles are exegesis of Acts 15, and the Torah and the Prophets. He is not teaching Gentiles to worship God contrary to the Torah (law).
+
+Look again at Paul's statement in verse 31 of chapter 3. It's so crucial to understanding this.
+
+**Do we then nullify the law through faith? May it never be! No, we establish the law.**
+
+Let's now look at Galatians - what is the central theme of the epistle?
+
+{Gal 2:3 HNV} But not even Titus, who was with me, being a Yevanit, was compelled to be circumcised.
+
+So what would have compelled the Galatians, the Jews by faith (Romans 2) to receive the sign of the covenant in their flesh?
+
+{Gal 3:7 HNV} Know therefore that those who are of faith, the same are sons of Avraham.
+
+They were learning Torah (Acts 15:21, 18:4), and saw passages like this:
+
+{Gen 17:2-4, 10-12 HNV} I will make my covenant between me and you, and will multiply you exceedingly." Avram fell on his face. God talked with him, saying,  "As for me, behold, my covenant is with you. You will be the father of a multitude of nations. ... This is my covenant, which you shall keep, between me and you and your seed after you. Every male among you shall be circumcised. You shall be circumcised in the flesh of your foreskin. It will be a token of a covenant between me and you. He who is eight days old will be circumcised among you, every male throughout your generations, he who is born in the house, or bought with money of any foreigner who is not of your seed.
+
+The command was to circumcise the foreigner - now the wisdom of James (NOT PAUL) revealed that the foreigners coming in didn't need to receive the mark in their flesh, as they showed the mark in their heart, **BY THEIR DEEDS**.
+
+{Act 15:7-9 HNV} When there had been much discussion, Rock rose up and said to them, "Brothers, you know that a good while ago God made choice among you, that by my mouth the Goyim should hear the word of the Good News, and believe. God, who knows the heart, testified about them, giving them the Ruach HaKodesh, just like he did to us. He made no distinction between us and them, cleansing their hearts by faith.
+
+This is Peter, explaining what happened with Cornelius - a **RIGHTEOUS GENTILE**
+
+{Act 10:4 HNV} He, fastening his eyes on him, and being frightened, said, "What is it, Lord?" He said to him, **"Your prayers and your gifts to the needy have gone up for a memorial before God.**
+
+Peter by the Holy Spirit recognized this in Cornelius:
+
+{Act 10:34-35 HNV} Rock opened his mouth and said, "Truly I perceive that God doesn't show favoritism; but in every nation he who fears him and works righteousness is acceptable to him.
+
+By their **DEEDS** they proved their heart to be circumcised.
+
+{Deu 10:16 HNV} Circumcise therefore the foreskin of your heart, and be no more stiff-necked.
+{Deu 30:6 HNV} The LORD your God will circumcise your heart, and the heart of your seed, to love the LORD your God with all your heart, and with all your soul, that you may live.
+
+This is why it's SO IMPORTANT to understand Torah, to read the ENTIRE Bible, not just the New Testament. God is returning for a chaste virgin, not a dirty filthy worldly gentile whore.
+
+{1Th 4:3-5 HNV} For this is the will of God: your sanctification, that you abstain from sexual immorality, that each one of you know how to possess himself of his own vessel in sanctification and honor, not in the passion of lust, even as the Goyim (Gentile) who don't know God;
+
+{1Pe 4:1-3 HNV} Forasmuch then as Messiah suffered for us in the flesh, arm yourselves also with the same mind; for he who has suffered in the flesh has ceased from sin; that you no longer should live the rest of your time in the flesh for the lusts of men, but for the will of God. For we have spent enough of our past time living in doing the desire of the Goyim (GENTILE), and to have walked in lewdness, lusts, drunken binges, orgies, carousings, and abominable idolatries.
+
+Being born a Gentile, you are not called to live a **SET APART** life, HOLY for God. Remember the question I started out with?
+
+If you claim to be Christian, yet still live like the unsaved - are you a Jew by faith?
+
+{Eph 5:3-7 HNV}  But sexual immorality, and all **uncleanness**, or covetousness, let it not even be mentioned among you, as becomes holy ones; nor filthiness, nor foolish talking, nor jesting, which are not appropriate; but rather giving of thanks. Know this for sure, that no sexually immoral person, nor unclean person, nor covetous man, who is an idolater, has any inheritance in the Kingdom of Messiah and God. Let no one deceive you with empty words. For because of these things, the wrath of God comes on the sons of disobedience.  Therefore don't be partakers with them.
+
+uncleanness, being "unclean" is more than just backsliding into sin. He lists other laws and sins here, even beyond the four given in Acts 15. The purpose of those four commandments, is to **FRAME** Torah, to lead pagans to become obedient servants of Yah.
+
+When Brother Paul lists "UNCLEAN" or "UNCLEANNESS" He knew they would be doing as the Bereans do, as we see in Acts 15:21, Acts 18:4, Acts 26:20, Acts 28:23. They would search the "scriptures" (which did not include our New Testament) daily to see if those things were so.
+
+Any doctrine we exegete (pull out) of the New Testament - MUST be pulled out of the OLD! There was NO NEW TESTAMENT, when Paul was teaching the Gospel in Acts to Gentiles. NONE. His epistles hadn't yet been written. 
+
+If you're pulling ideas out of Paul's epistles that:
+
+1) Make him a teacher against the law, specifically for Gentiles
+2) Make him teaching a different Gospel than Yeshua (LORD, GOD)
+3) Make him teaching a different Gospel than that you find IN ISAIAH THAT PAUL QUOTES
+
+You are under a DELUSION, a DIFFERENT GOSPEL.
+
+You are siding with the FALSE ACCUSERS who repeatedly tried to use that accusation to SHUT DOWN CHRISTIANS.
+
+Against Stephen (Among the first Jewish converts)
+{Act 6:13-14 HNV} and set up false witnesses who said, "This man never stops speaking blasphemous words against this holy place and the law.  For we have heard him say that this Yeshua of Natzeret will destroy this place, and will change the customs which Moshe delivered to us."
+
+Against Paul (twice)
+{Act 18:13 HNV} saying, "This man persuades men to worship God contrary to the law."
+
+{Act 21:20-21 HNV} They, when they heard it, glorified God. They said to him, "You see, brother, how many thousands there are among the Yehudim of those who have believed, and they are all zealous for the law. They have been informed about you, that you teach all the Yehudim who are among the Goyim to forsake Moshe, telling them not to circumcise their children neither to walk after the customs.
+
+Now, **ACCORDING TO THE TORAH (LAW)** Were these false accusations true against either Paul or Stephen, both **DESERVED** death. But the false Gospel also is stretch to a fourth point, twisting the word fulfill (Matt 5:17) to mean abolish.
+
+{Mat 5:17 HNV} "Don't think that I came to destroy the law or the prophets. I didn't come to destroy, but to fulfill.
+
+However you interpret fulfill, IT CANNOT mean destroy or abolish. Do not think I came to destroy - so therefore fulfill cannot mean He's putting aside the law. And God, KNEW men would do so, thusly Yeshua goes on to complete the thought. He teaches that men should teach the law, and those who teach against the law, will be LEAST in the Kingdom.
