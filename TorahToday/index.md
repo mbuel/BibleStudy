@@ -1,1 +1,0 @@
-# Sub Index of Torah studies
