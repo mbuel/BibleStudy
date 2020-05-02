@@ -1,3 +1,5 @@
+# Revelation Part 1
+
 Before diving in to this study, I want to discuss a bit of the history surrounding this work by John. First of all, I'm going to say that the date of composition, had to have been before 75 AD. I don't say this because of futurism, my view of this book works just as well if it was written later. I say this because John leaves out key things that happened from 70 AD to 95 AD. 
 
 Where's the death of Peter, the rock of the body of Christ? Don't you think such a crucial thing would be mentioned as revelatory of the coming of the Messiah?
@@ -8,7 +10,7 @@ Where's the death of James the *brother* of Jesus?
 
 To think that John would leave these important events out? I just don't see that happening. These were key figures (and others that died) who died to bear the witness of Messiah, and John just leaves it out?
 
-This leads me to discuss the interpretations of Revelation:
+This leads me to discuss the three primary interpretations of Revelation:
 
 1) Preterism (partial and full)
 2) Futurism (Pre-Trib / Pan-Trib / Post-Trib) 
@@ -26,13 +28,35 @@ The prophecy in Revelation, the rest of the New and Old Testament all points to 
 
 You'll see some online argue, "If a Jesuit starting this interpretation is a reason to reject it, then we should also reject futurism which was also started by a Jesuit."
 
-I agree whole-heartedly. The reason these interpretations of scripture exist is to mask the true beast of Scripture that was **UNDERSTOOD** even before they took over.
+I agree with this conclusion whole-heartedly. The reason these interpretations of scripture exist is to mask the true beast of Scripture that was **UNDERSTOOD** even before they took over.
 
 As R.C. Sproul states of full preterist Max R. King, of Ohio; "For this schema to work, the traditional idea of resurrection must be replaced with a metaphorical idea of resurrection".
 
-2) Futurism, as stated was also started in the counter-Reformation era by a different Jesuit Priest Francisco Ribera. Futurism did not exist prior to this Jesuit Priest, just like Preterism. Again, research the early Christians - I'm not saying they are as authoritative as scripture. They aren't - However they give us perspective of scripture, and interpretation from the era shortly after the writings of the Bible were completed. This is important, because there is a **WHOLE LOT OF LEAVEN** in the body of Messiah.
+{Matt 24:29-31 LITV}  And immediately after the affliction of those days the sun will be darkened and the moon will not give her light, and the stars will fall from the heaven, and the powers of the heavens will be shaken. And then the sign of the Son of man will appear in the heavens. And then all the tribes of the land will wail. And they will see the Son of man coming on the clouds of heaven with power and much glory. (Dan. 7:13) And He will send His angels with a great sound of a trumpet, and they will gather His elect from the four winds, from the ends of the heavens to their ends.
 
-Futurism has it's own set of problems, that has led to *TERRIBLE* theological schools of God's secret resurrection, (rapture of believers before times get really hard) and Dispensationalism - which is essentially a repackaged version of the heresy of Marcionism and/or Open Theism. The fundamental foundation of which is dual covenant theology, a separate covenant for Israel and the "Church age" (this is not in your Bible people, read it) along with God allowing the people of Israel who just suffered one of the greatest atrocities in history through the Holocaust to go through even more trouble, while the grafted in Church skips town.
+{Dan 7:13 LITV} I was looking in the night visions. And behold! One like the Son of Man came with the clouds of the heavens. And He came to the Ancient of Days. And they brought Him near before Him.
+
+{Acts 1:10-11 LITV} And as they were intently looking into the heaven, He having gone, even behold, two men in white clothing stood by them, who also said, Men, Galileans, why do you stand looking up to the heaven? This Jesus, the One being taken from you into the heaven, will come in the way you saw Him going into the heaven.
+
+in 70 AD, in order to fulfill the prophecy either partially (which is not how Bible Prophecy works) or fully - Jesus would have to come to judge the world, this is the day of the Lord, the day of resurrection from the dead. The day She'ol gives birth to the damned and the just. Not only does 70 AD **NOT** meet that requirement, it's clear from *ALL* the post apostlic writings that *NO ONE* taught this, after 70 AD happened. 
+
+Did they all miss that 70 AD was the fulfilled prophecy? 
+
+That the Lord had returned to Jerusalem to only judge them?
+
+Was 70AD the **WORST** tribulation to befall any of mankind? look back to the 1940's and the holocaust. That was **MUCH** worse than what Rome did.
+
+{Matt 24:21 LITV} For there will be great affliction, such as has not happened from the beginning of the world until now, no, nor ever will be.
+
+The coming affliction (Tribulation) will be *SO GREAT* that it has not happened this way from the *BEGINNING OF THE WORLD UNTIL NOW* (When Yeshua spoke this) and the important addition:
+
+**NOR WILL EVER BE** - this is a statement of finality, that there is no more affliction after this. It's after this, that he tells us; "After the affliction of those days, I will send my angels to the four corners of the world to gather my elect."
+
+If this actually happened, we are believers without a promise - just as Paul warned of Hymenaeus and Philetus..
+ 
+2) Futurism, as stated was also started in the counter-Reformation era, by Jesuit Priest Francisco Ribera. Futurism did not exist prior to this Jesuit Priest, just like Preterism. Again, research the early Christians - I'm not saying they are as authoritative as scripture. They aren't - However they give us perspective of scripture, and interpretation from the era shortly after the writings of the Bible were completed. This is important, because there is a **WHOLE LOT OF LEAVEN** in the body of Messiah.
+
+Futurism has it's own set of problems, that has led to *TERRIBLE* theological schools of God's secret resurrection, (rapture of believers before times get really hard) and Dispensationalism - which is essentially a repackaged version of the heresy of Marcionism and/or Open Theism. The fundamental foundation of which is dual covenant theology, a separate covenant for Israel and the "Church age" (this is not in your Bible, read it) along with God allowing the people of Israel who just suffered one of the greatest atrocities in history through the Holocaust to go through even more trouble, while the grafted in Church skips town.
 
 Know this as your foundation of *ANY* scriptural exegesis.
 
@@ -76,7 +100,7 @@ Here's one example, and I'll be going over more in coming studies as I dive into
 
 {Rev 18:2 NKJV} And he cried mightily with a loud voice, saying, "**Babylon the great is fallen, is fallen**, and has become a dwelling place of demons, a prison for every foul spirit, and a cage for every unclean and hated bird!
 
-Did Mystery Babylon **FALL TWICE** or is John describing the same even twice?
+Did Mystery Babylon **FALL TWICE** or is John describing the same event twice?
 
 Or this metaphor for entering Heaven:
 
@@ -93,7 +117,7 @@ This is crucial to really coming out of Preterism and Futurism. Another aspect o
 
 Thousand **EQUALS** eternity, note the understanding here. A thousand generations, is **FOREVER** a thousand **YEARS** if a day is a year? A thousand years, is **FOREVER**.
 
-Now there is some complex understandings in this, why was Satan released after what I'm saying is eternity? This will be explained and I'm telling you now?
+Now there is some complex understandings in this, why was Satan released after what I'm saying is eternity? I will be explaining this as I believe God has revealed it to me.
 
 Satan was already released and is currently making war on the Saints through the Corona Virus and as I prophesied, that war will rapidly increase in tenacity.
 
