@@ -1,0 +1,11 @@
+# Word of Warning for 2020 and beyond
+
+While every false Prophet was promising greater wealth and riches for believers this year the Lord kept telling me, *PREPARE*. I knew as soon as last October that the shaking would start in March. I repented to the Lord for not sharing it more broadly. I should have obeyed Him - but I have had to grow in my faith over the past year. I'm done doubting the Lord.
+
+After the CoronaVirus there is going to be a global famine. The signs of that are already appearing in the News, if you are keen, you've caught on. Global production and supply chains have been crippled, shut down - and they aren't just going to restart over night. What this means is one of two things, food prices that are - for lack of a better word, *insane* - or store shelves that are even worse than they have been during the Corona Virus, plague of fear - empty.
+
+What happens after that and in what order is still fuzzy. There will be another plague, and I'm not the only one prophesying of that - it's going to be worse than the first, not just fear but far more contagious and far more deadly. This one will lead to a global police state. It will lead to the New World Order finally getting what they desire, the public shut down of Christianity. If you're Church hasn't done so yet, it needs to go underground. I mean **UNDERGROUND** as well with that statement. No cell phones, no computers, no streaming. It's going to be like China - where Zoom worship sessions lead to the arrest of those participating.
+
+The Lord showed me that during a dream, right before the forced global quarantine of so many nations - it was an even tighter quarantine, and the military was enforcing it. I visited someone's house and talked about the Lord - the result was they knew I was there, from the listening devices we have in every home. (Alexa, Siri, Google, etc)
+
+This leads me to my study - a study that needs to happen. A proper perspective of Revelation, because so many are expecting a seven year countdown to His return, and I'm here to warn you, it's going to be *MUCH* faster. Those of you waiting to be raptured out? That timeline is done, we are in the last hour - we are in the countdown to the day of the Lord.
