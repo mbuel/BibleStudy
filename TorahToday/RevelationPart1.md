@@ -157,4 +157,4 @@ Why are people **AFTER** the cross without excuse? God's prevenient grace, His *
 
 The tabernacle God promised to build, **AMONG THE PEOPLE** to establish His kingdom is **HERE AT HAND**.
 
-This is the end of part I - next I'll start going through the book in linear order, explaining the parallel passages.
+This is the end of part I - next I'll start going through the book in linear order, explaining the parallel passages. I'll also try explaining the onion layers, and the dreams God has shown me to help me understand what will happen next.
