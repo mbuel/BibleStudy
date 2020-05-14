@@ -12,11 +12,13 @@
     position: fixed;
     border: 10px;
     margin-left: 5%;
-    height: 20%;
+    height: 10%;
     width: 100%;
     z-index: 100;
     opacity: 1.0;
-    background-color: cadetblue;
+    background-color: rgba(88, 69, 54, 0.753);
+    background-image: url('../TopBar.jpg');
+    background-repeat: no-repeat;
 }
 #pageTitle {
     position: fixed;
