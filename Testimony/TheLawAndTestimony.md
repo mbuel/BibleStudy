@@ -74,7 +74,7 @@ God allowed Job to be beaten, bruised, all of his family destroyed except his wi
 
 {2Pe 3:11-14, 17 HNV} Therefore since all these things are thus to be destroyed, what manner of persons ought you to be in holy living and godliness, looking for and earnestly desiring the coming of the day of God, by reason of which the heavens being on fire will be dissolved, and the elements will melt with fervent heat? But, according to his promise, we look for new heavens and a new eretz, in which dwells righteousness. Therefore, beloved, seeing that you look for these things, be diligent to be found in shalom, without blemish and blameless in his sight. ... You therefore, beloved, knowing these things beforehand, beware lest, being carried away with the error of the wicked, you fall from your own steadfastness.
 
-We should be living a life *unspotted* from the world. No longer living our life in teh passions and desires of the *gentiles* (unsaved) Living a righteous life, is the start of the testimony of Yeshu'ah.
+We should be living a life *unspotted* from the world. No longer living our life in the passions and desires of the *gentiles* (unsaved) Living a righteous life, is the start of the testimony of Yeshu'ah.
 
 {1Jo 3:4-8 HNV} Everyone who sins also commits lawlessness. Sin is lawlessness. You know that he was revealed to take away our sins, and in him is no sin. Whoever remains in him doesn't sin. Whoever sins hasn't seen him, neither knows him. Little children, let no one lead you astray. He who does righteousness is righteous, even as he is righteous. He who sins is of the devil, for the devil has been sinning from the beginning. To this end the Son of God was revealed, that he might destroy the works of the devil.
 
