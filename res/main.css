@@ -1,27 +1,33 @@
 
+/* ID's */
+
 #NavBar {
     position: fixed;
     border: 10px;
-    margin-left: 0%;
+    margin-top: -10px;
+    margin-left: -10px;
     height: 100%;
-    width: 5%;
+    width: 6%;
     z-index: 100;
     background-color: cadetblue;
 }
 #TopBar {
     position: fixed;
     border: 10px;
-    margin-left: 5%;
-    height: 20%;
+    margin-top: -10px;
+    margin-left: 5.4%;
+    height: 10%;
     width: 100%;
-    z-index: 100;
+    z-index: 101;
     opacity: 1.0;
-    background-color: cadetblue;
+    background-color: rgba(88, 69, 54, 0.753);
+    background-image: url('../TopBar.jpg');
+    background-repeat: no-repeat;
 }
 #pageTitle {
     position: fixed;
-    margin-top: 10%;
-    margin-left: 6%;
+    margin-top: 4%;
+    margin-left: 10%;
     font-size: x-large;
     z-index: 100;
     opacity: 1.0;
@@ -30,8 +36,16 @@
 }
 #pageBody {
     position: absolute;
-    margin-top: 12%;
-    margin-left: 6%;
+    margin-top: 5%;
+    margin-left: 10%;
     font-size: normal;
     color: blueviolet;
+}
+
+.navigationBar {
+    margin-top:100px;
+}
+
+.navigationItem {
+    margin-left: -30px;
 }
