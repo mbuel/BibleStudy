@@ -49,3 +49,11 @@
 .navigationItem {
     margin-left: -30px;
 }
+
+.inactive {
+    background-color: lightcyan;
+}
+
+.active {
+    background-color: lightcoral;
+}
