@@ -16,15 +16,19 @@ function getLocation() {
     let navItems = Array.from(document.getElementsByClassName("navigationItem"));
 
     console.log(navItems);
-    navItems.forEach(function(element) {
+
+    for(let i = 0; i < navItems.length; i++) {
+        let element = navItems[i];
+    // navItems.forEach(function(element) {
         let windowPath = window.location.pathname.split("/")[1];
         console.log(windowPath);
         if (element.innerHTML.includes(windowPath)) {
             element.className = element.className + " active";
         } else {
             element.className = element.className + " inactive";
-        }       
-    });
+        }      
+    } 
+    // });
 }
 
 document.addEventListener("click", function() {
