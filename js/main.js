@@ -10,9 +10,10 @@ var links = [
     new Link("../index.html", "Home"),
     new Link("../Blog/index.html", "Blog"),
     new Link("../Documents/index.html", "Documents"),
-    new Link("../SocialMedia/index.html", "SocialMedia"),
+    new Link("../SocialMedia/index.html", "Social Media"),
     new Link("../templates/template.html", "Templates"),
     new Link("../TorahToday/index.html", "Torah Today"),
+    new Link("../Testimony/index.html", "Testimony"),
     new Link("../VideoTeachings/index.html", "Video Teachings"),
     new Link("../About/index.html", "About"),
 ];
@@ -42,7 +43,7 @@ function init() {
  * @param {Function} callback 
  */
 function insertLinks(element, list, callback) {
-    let value = list.pop();
+    let value = list.shift();
     if (value) {
         element.innerHTML += "<ul class='navigationItem'><a href='" + value.path + "' class='href'>" + value.name + "</a></ul>\r\n";
         insertLinks(element, list);

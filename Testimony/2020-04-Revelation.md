@@ -1,3 +1,5 @@
+# Covid-19 Warning about the future
+
 The shutdown is *NOT* about our health - it is about **CONTROL** and their goal is nefarious.
 
 Before I get to what the Lord revealed to me however, I want to say this. God is in control of all things. He is the Alpha and the Omega. Nothing happens that He did not **ALLOW** to happen. This includes the enemy laying waste to you. Like with Job, this doesn't necessarily mean you are in sin. It could be a trial God is growing with you through that, to sharpen you.
