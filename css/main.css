@@ -26,21 +26,21 @@
 }
 #pageTitle {
     position: fixed;
-    margin-top: 4%;
+    margin-top: 5.1%;
     margin-left: 10%;
-    font-size: x-large;
+    font-size: 220%;
     z-index: 100;
     opacity: 1.0;
-    color: peru;
+    color: darkslategray;
     background-color: white;
 }
 #pageBody {
     position: absolute;
-    margin-top: 5%;
-    margin-left: 10%;
+    margin-top: 7%;
+    margin-left: 9%;
     margin-right: 4%;
     font-size: normal;
-    color: blueviolet;
+    color:darkslateblue;
 }
 
 .navigationBar {
@@ -54,9 +54,15 @@
 .inactive {
     background-color: lightcyan;
 }
+.inactive>a {
+    color:darkslateblue;
+}
 
 .active {
     background-color: lightcoral;
+}
+.active>a {
+    color: aliceblue;
 }
 .bibleQuote {
     background-color: lightcyan;
