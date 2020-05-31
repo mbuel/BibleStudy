@@ -19,7 +19,7 @@ var links = [
 ];
 
 window.addEventListener("load", init);
-
+var dir = '';
 function init() {
 
     let navbar = document.getElementById("NavBar");
@@ -31,7 +31,16 @@ function init() {
     let navBar = document.getElementById("NavBar");
     navBar.innerHTML = "<li class='navigationBar'>";
     insertLinks(navBar, JSON.parse(JSON.stringify(links)), getLocation);
+    // dir = './';
+    // var fileExtension = '.html';
 
+    // var xhttp = new XMLHttpRequest();
+    // xhttp.onreadystatechange = function() {
+    //     if (this.readyState == 4 && this.status == 200) {
+    //         console.log(this.responseText);
+    //     }
+        
+    }
     // getLocation(navItems, windowPath);
 }
 
