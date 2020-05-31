@@ -40,7 +40,7 @@ function init() {
     //         console.log(this.responseText);
     //     }
         
-    }
+    // }
     // getLocation(navItems, windowPath);
 }
 
