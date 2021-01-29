@@ -14,9 +14,5 @@ Collection of Bible Studies posted to YouTube or BlogSpot
 
 [Social Media](SocialMedia/index.html "Social Media")
 
-### Fund Me If you feel led! God bless!
 
-A worker is worthy of his wage, I'd love to make this a full time effort of reaching and building up the Kingdom of God for his return and I'm trusting the Lord in that.
-
-[Paypal](http://paypal.me/AbideWithChrist)
 
