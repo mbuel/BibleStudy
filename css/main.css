@@ -38,9 +38,11 @@
 }
 #pageBody {
     position: absolute;
-    margin-top: 15%;
+    margin-top: 10%;
     margin-left: 9%;
     margin-right: 4%;
+    margin-bottom: 15%;
+    padding-bottom: 5%;
     font-size: normal;
     color:darkslateblue;
 }
@@ -84,4 +86,14 @@
 }
 li {
     margin-left: 5px;
+}
+footer {
+    font-size: small;
+    position: fixed;
+    margin-left: 0px;
+    padding-left: 210px;
+    bottom: 0px;
+    height: 20px;
+    width: 100%;
+    background: cadetblue;
 }

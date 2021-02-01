@@ -30,6 +30,7 @@ function init() {
   let navBar = document.getElementById("NavBar");
   navBar.innerHTML = "<li class='navigationBar'>";
   insertLinks(navBar, JSON.parse(JSON.stringify(links)), getLocation);
+  addFooter();
 }
 
 
@@ -86,7 +87,9 @@ function getLocation(elements, path) {
     } 
 }
 
-document.addEventListener("click", function() {
-    console.log(window.location.pathname);
-});
+
+function addFooter() {
+  const footer = document.getElementsByTagName("footer")[0];
+  footer.innerHTML = `Copyright Morris Buel ©️${new Date().getFullYear()}`;
+}
 
