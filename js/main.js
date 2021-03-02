@@ -28,7 +28,7 @@ function init() {
     });
   }
   let navBar = document.getElementById("NavBar");
-  navBar.innerHTML = "<li class='navigationBar'>";
+  navBar.innerHTML = "<ul class='navigationBar'>";
   insertLinks(navBar, JSON.parse(JSON.stringify(links)), getLocation);
   addFooter();
 }
@@ -43,7 +43,7 @@ function init() {
 function insertLinks(element, links, callback) {
   if (!links[0]) {
     console.log("list created");
-    element.innerHTML += "</li>";
+    element.innerHTML += "</ul>";
     let navItems = Array.from(
       document.getElementsByClassName("navigationItem")
     );
@@ -58,11 +58,11 @@ function insertLinks(element, links, callback) {
     let { path, name } = links.shift();
     if (path && name) {
       element.innerHTML +=
-        "<ul class='navigationItem'><a href='" +
+        "<li class='navigationItem'><a href='" +
         path +
         "' class='href'>" +
         name +
-        "</a></ul>\r\n";
+        "</a></li>\r\n";
       insertLinks(element, links);
     }
   }

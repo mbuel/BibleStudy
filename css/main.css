@@ -1,6 +1,5 @@
 
 /* ID's */
-
 #NavBar {
     position: fixed;
     border: 10px;
@@ -10,6 +9,7 @@
     width: 7%;
     z-index: 100;
     background-color: cadetblue;
+    background: linear-gradient(to right, cadetblue,green);
 }
 #TopBar {
     position: fixed;
@@ -20,9 +20,11 @@
     width: 100%;
     z-index: 101;
     opacity: 1.0;
-    background-color: rgba(88, 69, 54, 0.753);
+    
+    background: linear-gradient(to right, green,rgba(88, 69, 54, 0.753));
     background-image: url('../TopBar.jpg');
     background-repeat: no-repeat;
+    background-color: rgba(17, 134, 46, 0.753);
 }
 #pageTitle {
     position: fixed;
@@ -52,21 +54,30 @@
 }
 
 .navigationItem {
-    margin-left: -30px;
+    margin-left: 5px;
+    margin-bottom: 10px;
+    border-radius: 15px 0 15px 0;
 }
 
 .inactive {
     background-color: lightcyan;
+    background: linear-gradient(lightcyan, lightcoral);
 }
 .inactive>a {
     color:darkslateblue;
+    padding-left: 10px;
+
 }
 
 .active {
+    background-color:teal;
     background-color: lightcoral;
+    background: linear-gradient(lightcoral, lightcyan);
+    padding-left: 20px;
 }
 .active>a {
-    color: aliceblue;
+    color: teal;
+    
 }
 .bibleQuote {
     background-color: lightcyan;
@@ -86,6 +97,7 @@
 }
 li {
     margin-left: 5px;
+    list-style-type: none;
 }
 footer {
     font-size: small;
@@ -96,4 +108,17 @@ footer {
     height: 20px;
     width: 100%;
     background: cadetblue;
+    background: linear-gradient(to right, green,cadetblue);
 }
+
+.col-3 {
+    width: 25%;
+    display: inline-block;
+
+}
+
+.preview {
+    width: 150px;
+    height: 150px;
+}
+
