@@ -1,34 +1,40 @@
 
+/* elements */
+a {
+    text-decoration: none;
+
+}
 /* ID's */
 #NavBar {
     position: fixed;
-    border: 10px;
-    margin-top: -10px;
+    border: 4px;
+    margin-top: 55px;
     margin-left: -10px;
-    height: 100%;
-    width: 7%;
-    z-index: 100;
-    background-color: cadetblue;
-    background: linear-gradient(to right, cadetblue,green);
+    height: 40px;
+    width: 100%;
+    z-index: 102;
+    background-color: green;
+    background: linear-gradient(to right,green, rgb(64, 187, 68, 0.753));
+    transition: 2s;
 }
 #TopBar {
     position: fixed;
     border: 10px;
     margin-top: -10px;
-    margin-left: 6.4%;
-    height: 10%;
+    margin-left: -10px;
+    height: 65px;
     width: 100%;
     z-index: 101;
     opacity: 1.0;
     
-    background: linear-gradient(to right, green,rgba(88, 69, 54, 0.753));
+    background: linear-gradient(to right, green,rgba(64, 187, 68, 0.753));
     background-image: url('../TopBar.jpg');
     background-repeat: no-repeat;
-    background-color: rgba(17, 134, 46, 0.753);
+    background-color: rgba(64, 187, 68, 0.753);
 }
 #pageTitle {
     position: fixed;
-    margin-top: 4.1%;
+    margin-top: 5.1%;
     margin-left: 7%;
     padding-left: 10%;
     font-size: 220%;
@@ -50,13 +56,23 @@
 }
 
 .navigationBar {
-    margin-top:100px;
+    margin-top:110px;
+    display: inline;
 }
 
 .navigationItem {
+    padding: 10px 10px 10px 10px;
     margin-left: 5px;
     margin-bottom: 10px;
     border-radius: 15px 0 15px 0;
+    transition: 0.5s;
+    display: inline;
+}
+
+.navigationItem:hover {
+    text-decoration: underline;
+    border-radius: 0 15px 0 15px;
+
 }
 
 .inactive {
@@ -77,8 +93,8 @@
 }
 .active>a {
     color: teal;
-    
 }
+
 .bibleQuote {
     background-color: lightcyan;
     margin-left: 2%;
@@ -102,13 +118,13 @@ li {
 footer {
     font-size: small;
     position: fixed;
-    margin-left: 0px;
+    margin-left: -10px;
     padding-left: 210px;
     bottom: 0px;
     height: 20px;
     width: 100%;
     background: cadetblue;
-    background: linear-gradient(to right, green,cadetblue);
+    background: linear-gradient(to right, green,rgb(64, 187, 68, 0.753));
 }
 
 .col-3 {
